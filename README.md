@@ -159,6 +159,9 @@ Incluye:
 - Ingresos por ciudad.
 - Crecimiento YoY.
 
+<img width="1476" height="799" alt="image" src="https://github.com/user-attachments/assets/c85dc91a-9089-4f7e-adb4-dc32a202d582" />
+
+
 ### 2. Análisis Comercial
 
 Vista enfocada en identificar los principales motores de ingreso.
@@ -170,6 +173,9 @@ Incluye:
 - Ingresos por segmento de cliente.
 - Tabla con formato condicional tipo semáforo.
 - Tooltips con medidas de participación porcentual.
+
+<img width="1458" height="704" alt="image" src="https://github.com/user-attachments/assets/cbc56e89-9795-4ac9-bedc-d017dc8bbda8" />
+
 
 ### 3. Análisis de Cohortes
 
@@ -183,7 +189,8 @@ Incluye:
 - Ingreso o cantidad de ventas por cohorte.
 - Comparación del comportamiento de recompra entre grupos de clientes.
 
-> Oportunidad de mejora detectada: ajustar la definición de `Mes Venta` si se desea representar el mes calendario real de la transacción y no solo el desfase mensual desde la primera compra.
+<img width="1408" height="668" alt="image" src="https://github.com/user-attachments/assets/0a752db9-90e3-4771-8dfa-2008bae9799d" />
+
 
 ---
 
